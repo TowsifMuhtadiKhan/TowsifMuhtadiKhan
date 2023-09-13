@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=TowsifMuhtadiKhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💫 About Me:
+## 💫 About Me
 
 - 🔭 I’m currently working on **Online Job Portal**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **towsif.muhtadi@gmail.com**
 
-## 📫Connect with me
+## 📫Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/towsifmuhtadikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="towsifmuhtadikhan" height="30" width="40" /></a>
 <a href="https://fb.com/towsifmuhtadikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="towsifmuhtadikhan" height="30" width="40" /></a>
