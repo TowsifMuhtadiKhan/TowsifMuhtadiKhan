@@ -7,6 +7,9 @@
 <a href="mailto:your-email@example.com">
   <img src="https://example.com/email-icon.png" alt="Email Icon" width="32" height="32">
 </a>
+
+[![Email](https://example.com/email-icon.png)](mailto:your-email@example.com)
+
 ## 💫 About Me
 
 - 🔭 I’m currently working on **Online Job Portal**
