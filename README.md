@@ -29,8 +29,7 @@
 - I'm always open to new opportunities and interesting projects! 🔭
 
 - Let's code and innovate together! 🚀
-  <br>
-
+<br>
 
 ## 📫Connect With Me
 <p align="left">
