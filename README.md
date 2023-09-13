@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=towsifmuhtadikhanl&label=Profile%20views&color=0e75b6&style=flat" alt="towsifmuhtadikhanl" /> </p>
 
+# 💫 About Me:
+
 - 🔭 I’m currently working on **Online Job Portal**
 
 - 🌱 I’m currently learning **Flutter, React**
@@ -22,8 +24,16 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=towsifmuhtadikhan&show_icons=true&locale=en" alt="towsifmuhtadikhan" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TowsifMuhtadiKhan&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towsifmuhtadikhan&" alt="towsifmuhtadikhan" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TowsifMuhtadiKhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=towsifmuhtadikhan&show_icons=true&locale=en&layout=compact" alt="towsifmuhtadikhan" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TowsifMuhtadiKhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=TowsifMuhtadiKhan&icon=0&color=0)](https://visitcount.itsvg.in)
