@@ -33,9 +33,10 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TowsifMuhtadiKhan&theme=radical&hide_border=true" alt="GitHub Streak">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TowsifMuhtadiKhan&theme=radical&hide_border=true" alt="GitHub Streak">
+     
     </td>
   </tr>
   <tr>
