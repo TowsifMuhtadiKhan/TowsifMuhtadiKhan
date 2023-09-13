@@ -4,11 +4,8 @@
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">-->
 
 [![](https://visitcount.itsvg.in/api?id=TowsifMuhtadiKhan&icon=0&color=0)](https://visitcount.itsvg.in)
-<a href="mailto:your-email@example.com">
-  <img src="https://example.com/email-icon.png" alt="Email Icon" width="32" height="32">
-</a>
-
-[![Email]([https://example.com/email-icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons-for-free.com%2Femail%2Bgmail%2Bmail%2Bservice%2Bmailing%2Bonline%2Bservice%2Bicon-1320194987766966945%2F&psig=AOvVaw3TJjUbur9XvOXYC9WEKzpa&ust=1694707407650000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiyr5r7p4EDFQAAAAAdAAAAABAE))](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:towsif.muhtadi@gmail.com)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/towsifmuhtadikhan/)
 
 ## 💫 About Me
 
