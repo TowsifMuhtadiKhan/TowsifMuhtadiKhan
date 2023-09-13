@@ -1,15 +1,19 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="center">Hi 👋, I'm Towsif Muhtadi Khan</h1>
+<h1 align="center">Hi 👋, I'm Towsif Muhtadi Khan
+[![](https://visitcount.itsvg.in/api?id=TowsifMuhtadiKhan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:towsif.muhtadi@gmail.com)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/towsifmuhtadikhan/)
+ </h1>
 <!--<h3 align="center">A passionate frontend developer from Bangladesh</h3>-->
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">-->
 
 
-<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=TowsifMuhtadiKhan&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:towsif.muhtadi@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/towsifmuhtadikhan/)
  
-</div>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+Profile"></a>
