@@ -4,7 +4,9 @@
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">-->
 
 [![](https://visitcount.itsvg.in/api?id=TowsifMuhtadiKhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<a href="mailto:your-email@example.com">
+  <img src="https://example.com/email-icon.png" alt="Email Icon" width="32" height="32">
+</a>
 ## 💫 About Me
 
 - 🔭 I’m currently working on **Online Job Portal**
