@@ -26,21 +26,6 @@
 
 # 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-    </td>
-  
-  </tr>
-  <tr>
-    <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TowsifMuhtadiKhan&theme=radical&hide_border=true" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
-
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 |:---:|:---:|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TowsifMuhtadiKhan&theme=radical&hide_border=true) | |
