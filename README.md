@@ -37,6 +37,12 @@
 
 ## ✍️ Random Dev Quote
 
+ <div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📊 GitHub Stats:
