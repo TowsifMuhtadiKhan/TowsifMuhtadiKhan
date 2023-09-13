@@ -21,9 +21,9 @@
 
 - 📱 Currently, I'm expanding my skill set by learning Flutter, a powerful framework for building cross-platform mobile applications. I'm excited about the possibilities of mobile app development and exploring the world of software engineering.
 
-- I'm always open to new opportunities and interesting projects! 🔭
+- 🔭 I'm always open to new opportunities and interesting projects! 
 
-- Let's code and innovate together! 🚀
+- 🚀 Let's code and innovate together! 
 <br>
 
 ## 📫Connect With Me
