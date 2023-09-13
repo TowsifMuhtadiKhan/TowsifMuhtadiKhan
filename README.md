@@ -8,7 +8,7 @@
   <img src="https://example.com/email-icon.png" alt="Email Icon" width="32" height="32">
 </a>
 
-[![Email](https://example.com/email-icon.png)](mailto:your-email@example.com)
+[![Email]([https://example.com/email-icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons-for-free.com%2Femail%2Bgmail%2Bmail%2Bservice%2Bmailing%2Bonline%2Bservice%2Bicon-1320194987766966945%2F&psig=AOvVaw3TJjUbur9XvOXYC9WEKzpa&ust=1694707407650000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiyr5r7p4EDFQAAAAAdAAAAABAE))](mailto:your-email@example.com)
 
 ## 💫 About Me
 
