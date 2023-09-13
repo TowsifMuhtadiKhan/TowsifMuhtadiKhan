@@ -3,16 +3,13 @@
 <!--<h3 align="center">A passionate frontend developer from Bangladesh</h3>-->
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">-->
 
-
- <div align="center">
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:towsif.muhtadi@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/towsifmuhtadikhan/)
 [![](https://visitcount.itsvg.in/api?id=TowsifMuhtadiKhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+Profile"></a>
@@ -44,7 +41,7 @@
 
 ## ✍️ Random Dev Quote
 
- <div align="center">
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -58,20 +55,15 @@
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TowsifMuhtadiKhan&theme=radical&hide_border=true) | |
 <br>
 
-
 ## 🏆 GitHub Trophies
 
- <div align="center">
+<div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=TowsifMuhtadiKhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
-
-
 <br>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TowsifMuhtadiKhan&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
 
