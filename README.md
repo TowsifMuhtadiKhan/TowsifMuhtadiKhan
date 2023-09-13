@@ -29,6 +29,29 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TowsifMuhtadiKhan&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TowsifMuhtadiKhan&theme=radical&hide_border=true" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=TowsifMuhtadiKhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
