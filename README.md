@@ -3,7 +3,7 @@
 <!--<h3 align="center">A passionate frontend developer from Bangladesh</h3>-->
 <!--<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=towsifmuhtadikhanl&label=Profile%20views&color=0e75b6&style=flat" alt="towsifmuhtadikhanl" /> </p>
+[![](https://visitcount.itsvg.in/api?id=TowsifMuhtadiKhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
@@ -37,4 +37,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=TowsifMuhtadiKhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TowsifMuhtadiKhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
