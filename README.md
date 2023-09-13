@@ -30,10 +30,9 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TowsifMuhtadiKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     </td>
+  
   </tr>
   <tr>
     <td>
