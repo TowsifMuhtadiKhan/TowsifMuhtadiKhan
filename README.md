@@ -20,11 +20,16 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on **Online Job Portal**
+🎓 I hold a Bachelor's degree in Computer Science and Engineering from North South University.
 
-- 🌱 I’m currently learning **Flutter, React**
+💻 I have experience in developing websites, both on the front-end and back-end. I'm passionate about creating interactive and user-friendly web applications.
 
-- 📫 How to reach me **towsif.muhtadi@gmail.com**
+📱 Currently, I'm expanding my skill set by learning Flutter, a powerful framework for building cross-platform mobile applications. I'm excited about the possibilities of mobile app development and exploring the world of software engineering.
+
+I'm always open to new opportunities and interesting projects! 🔭
+
+Let's code and innovate together! 🚀
+
 
 ## 📫Connect With Me
 <p align="left">
