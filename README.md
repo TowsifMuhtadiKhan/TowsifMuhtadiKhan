@@ -36,8 +36,11 @@
     </td>
   </tr>
   <tr>
-    <td >
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=TowsifMuhtadiKhan&theme=radical&hide_border=true" alt="GitHub Streak">
+    <td>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TowsifMuhtadiKhan&theme=radical&hide_border=true" alt="GitHub Streak">
+    </td>
+
+        
     
   </tr>
 </table>
